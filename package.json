@@ -50,7 +50,6 @@
     "webpack-bundle-analyzer": "^2.9.0"
   },
   "devDependencies": {
-    "husky": "^0.14.3",
     "lint-staged": "^4.2.3",
     "prettier": "^1.7.4"
   },
